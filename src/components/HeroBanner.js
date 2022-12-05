@@ -52,7 +52,7 @@ const HeroBanner = () => (
         fontSize: "200px",
       }}
     >
-      Exercise
+      We Care
     </Typography>
     <img src={HeroBannerImage} alt="hero-banner" className="hero-banner-img" />
   </Box>
