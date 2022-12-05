@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/59587190/205526461-70178a56-ee64-45ec-a0b4-e197958ffb5d.png)
+https://training-repo.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
