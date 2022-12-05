@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Stack, Typography } from "@mui/material";
 
-import HeroBannerImage from "../assets/images/banner.jpg";
+import HeroBannerImage from "../assets/images/banner-modified.png";
 
 const HeroBanner = () => (
   <Box
@@ -22,7 +22,7 @@ const HeroBanner = () => (
       And Repeat
     </Typography>
     <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
-      Check out the most effective exercises personalized to you
+      Personalized exercises to help improve your quality of life!
     </Typography>
     <Stack>
       <a

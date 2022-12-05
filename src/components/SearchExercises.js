@@ -53,7 +53,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
         mb="49px"
         textAlign="center"
       >
-        Awesome Exercises You <br /> Should Know
+        Awesome Exercises To <br /> Keep You Moving
       </Typography>
       <Box position="relative" mb="72px">
         <TextField
